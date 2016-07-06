@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+section {
+    float: left;
+}
+
+#projects{
+    padding: 0 2em 0;
+}
+
+h4 {
+    text-indent: 10%;
+}
