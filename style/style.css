@@ -13,3 +13,7 @@ section {
 h4 {
     text-indent: 10%;
 }
+
+.block-divition {
+    float: left;
+}
