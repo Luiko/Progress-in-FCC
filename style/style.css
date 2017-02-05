@@ -1,12 +1,15 @@
 h1 {
     text-align: center;
 }
-
+div.certificate {
+    display: inline-block;
+}
 section {
+    display: table;
     float: left;
 }
 
-#projects{
+.sub {
     padding: 0 2em 0;
 }
 
