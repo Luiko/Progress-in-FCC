@@ -1,22 +1,23 @@
+body {
+    background-color: #f5f5dc;
+}
+h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
 h1 {
     text-align: center;
 }
-div.certificate {
-    display: inline-block;
-}
-section {
-    display: table;
-    float: left;
+section.sub section {
+    display: inline-table;
 }
 
-.sub {
-    padding: 0 2em 0;
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h4 {
-    text-indent: 10%;
+a:link {
+    color: #a52;
 }
-
-.block-divition {
-    float: left;
+a:visited {
+    color: #111;
 }
